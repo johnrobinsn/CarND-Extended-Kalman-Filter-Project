@@ -91,7 +91,7 @@ Here is a screenshot of the simulator using the first dataset:
 
 <img src="readme_resources/Dataset1.png">
 
-I was able get an RMSE of [0.0973,0.0855,0.4513,0.4399] on Dataset 1.
+I was able to get an RMSE of [0.0973,0.0855,0.4513,0.4399] on Dataset 1.
 
 ## Dataset 2
 
